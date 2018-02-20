@@ -405,7 +405,7 @@ public class Menu extends javax.swing.JFrame {
 
     File fullfile;
     File testfile;
-    File defFile = new File("C:\\Users\\Asus\\Documents\\NetBeansProjects\\Veri_Madenciligi");
+    File defFile = new File("C:\\Users\\Asus\\Desktop");
     
     private void egitimverisiActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_egitimverisiActionPerformed
         final JFileChooser fc = new JFileChooser();
